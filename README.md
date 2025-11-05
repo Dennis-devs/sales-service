@@ -15,12 +15,10 @@
   - API Integration & Communication
     - **Africa's Talking SMS API** - SMS gateway service
     - Requests library - HTTP client for API calls
-    - **REST API endpoints** - Communication protocol
   - Development Tools
-    - mozilla-django-oidc with Auth0 for OpenID Connect (OIDC)
+
   - Testing & Quality
     - **pytest** - Testing framework
-    - pytest-django - Django-specific testing tools
     - Postman - API testing tool
   - Configuration management
     - **Ansible** used for dependency installation and migrations
